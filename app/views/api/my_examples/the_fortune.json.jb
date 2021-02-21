@@ -1,1 +1,1 @@
-{messaage: "hello"}
+{fortune: @selected_fortune}
